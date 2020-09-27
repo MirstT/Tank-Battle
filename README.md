@@ -1,6 +1,6 @@
 # Games 自制游戏合集
 
-## Tank-Battle
+## 坦克大战 (tank_battle)
 
 **python**
 
